@@ -6,7 +6,7 @@
 </div>
 <br>
 
-# Zappar-Echo3D-Unity-Template
+# Zappar-Unity-Template
 
 https://docs.zap.works/universal-ar/unity/getting-started/importing/
 
